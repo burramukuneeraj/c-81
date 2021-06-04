@@ -1,0 +1,14 @@
+
+h1
+{
+	color: rgb(17, 16, 16); 
+	font-size: 40px;
+}
+.body_backgorund {
+	background-image: url("bg1.jpg");
+}
+
+#myCanvas{ background-color: ghostwhite;
+	border:ridge;
+
+}
